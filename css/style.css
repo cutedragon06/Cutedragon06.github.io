@@ -1,0 +1,51 @@
+
+body {
+	background-color: #0feeee;
+}
+
+.dragon {
+	background-image: url("../bilder/drake.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+}
+
+.chocolate {
+	background-image: url("../bilder/Chocolatehappy.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+	color: black;
+}
+
+.demon {
+	background-image: url("../bilder/demon2.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+}
+
+
+h1 {
+	color:purple;
+}
+
+.navbar-inverse {
+	color: purple;
+}
+
+main{
+	font-family: 'Pacifico', cursive;
+}
+
+p{
+	color: white;
+}
+
+ul{
+
+	color: white
+}
